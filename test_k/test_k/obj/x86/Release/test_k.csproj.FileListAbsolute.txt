@@ -1,0 +1,14 @@
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\bin\Release\test_k.exe
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\bin\Release\test_k.pdb
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\bin\Release\Emgu.CV.dll
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\bin\Release\Emgu.CV.Stitching.dll
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\bin\Release\Emgu.CV.UI.dll
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\bin\Release\Emgu.Util.dll
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\bin\Release\Emgu.CV.Cuda.dll
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\obj\x86\Release\test_k.Form1.resources
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\obj\x86\Release\test_k.Properties.Resources.resources
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\obj\x86\Release\test_k.csproj.GenerateResource.Cache
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\obj\x86\Release\test_k.exe
+E:\e_pan\vs\vs项目\图像测试\test_k\test_k\obj\x86\Release\test_k.pdb
+E:\e_pan\vs\vs项目\图像测试\test_k2\test_k\test_k\obj\x86\Release\test_k.exe
+E:\e_pan\vs\vs项目\图像测试\test_k2\test_k\test_k\obj\x86\Release\test_k.pdb
